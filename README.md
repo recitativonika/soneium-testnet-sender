@@ -46,3 +46,4 @@
     ```
 
 This is for testing the Soneium Testnet only.
+Check TX in https://explorer-testnet.soneium.org
