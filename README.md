@@ -22,7 +22,7 @@
    ```
 2. Install required package
    ```
-   npm install
+   node install
    ```
 ### Setup and run
 
