@@ -18,6 +18,7 @@
 1. Clone the project and go to project directory
    ```
    git clone https://github.com/recitativonika/soneium-testnet-sender.git
+ ```
    cd soneium-testnet-sender
    ```
 2. Install required package
